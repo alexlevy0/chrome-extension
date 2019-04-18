@@ -4,7 +4,7 @@
   "dependencies": {
     "browser-request": "^0.3.3",
     "github-linker-core": "^1.9.0",
-    "jquery": "^2.1.1"
+    "jquery": "^3.4.0"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
